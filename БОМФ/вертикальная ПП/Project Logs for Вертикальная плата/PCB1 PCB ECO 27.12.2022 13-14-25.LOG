@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R1_8 NewDesignator=R1_U_ÑÂÅÒÎÄÈÎÄÛ8
+Change Component Designator: OldDesignator=R2_8 NewDesignator=R2_U_ÑÂÅÒÎÄÈÎÄÛ8
+Change Component Designator: OldDesignator=VD1_8 NewDesignator=VD1_U_ÑÂÅÒÎÄÈÎÄÛ8
+Change Component Designator: OldDesignator=VD2_8 NewDesignator=VD2_U_ÑÂÅÒÎÄÈÎÄÛ8
+Change Net Name : Old Net Name=NetR1_8_1 New Net Name=NetR1_U_ÑÂÅÒÎÄÈÎÄÛ8_1
+Change Net Name : Old Net Name=NetR2_8_1 New Net Name=NetR2_U_ÑÂÅÒÎÄÈÎÄÛ8_1
+Added Member To Class: ClassName=U_ÑÂÅÒÎÄÈÎÄÛ8 Member=Component R1_U_ÑÂÅÒÎÄÈÎÄÛ8 (R1) R
+Added Member To Class: ClassName=U_ÑÂÅÒÎÄÈÎÄÛ8 Member=Component R2_U_ÑÂÅÒÎÄÈÎÄÛ8 (R2) R
+Added Member To Class: ClassName=U_ÑÂÅÒÎÄÈÎÄÛ8 Member=Component VD1_U_ÑÂÅÒÎÄÈÎÄÛ8 (VD1) L-934(RED)
+Added Member To Class: ClassName=U_ÑÂÅÒÎÄÈÎÄÛ8 Member=Component VD2_U_ÑÂÅÒÎÄÈÎÄÛ8 (VD2) L-934(GREEN)
+Added Room: Name=U_ÑÂÅÒÎÄÈÎÄÛ8

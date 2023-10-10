@@ -1,0 +1,327 @@
+Added Component: Designator=BH1(BH-14 (DS1013-14S) (IDC-14MS))
+Add component. Clean all parameters for all variants
+Added Component: Designator=BH2(BH-14 (DS1013-14S) (IDC-14MS))
+Add component. Clean all parameters for all variants
+Added Component: Designator=BH3(BH-14 (DS1013-14S) (IDC-14MS))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C(AlEL))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C(ceramic))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C(ceramic))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C(ceramic))
+Add component. Clean all parameters for all variants
+Added Component: Designator=IDC1(BH-14 (DS1013-14S) (IDC-14MS))
+Add component. Clean all parameters for all variants
+Added Component: Designator=LCD1(BCB1602)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?1(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?2(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?3(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?4(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?5(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?6(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?7(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2_U_яберндхндш?8(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R(ОНДЯРП))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш1(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш2(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш3(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш4(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш5(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш6(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш7(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?_U_яберндхндш8(R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(РСЛАКЕП)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB1(ЙМНОЙЮ)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB2(PEC16-4220F-S0024)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?1(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?2(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?3(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?4(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?5(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?6(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?7(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1_U_яберндхндш?8(L-934(RED))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?1(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?2(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?3(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?4(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?5(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?6(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?7(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2_U_яберндхндш?8(L-934(GREEN))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=BH1-9
+Added Pin To Net: NetName=+3.3 Pin=C1-1
+Added Pin To Net: NetName=+3.3 Pin=IDC1-4
+Added Pin To Net: NetName=+3.3 Pin=LCD1-2
+Added Pin To Net: NetName=+3.3 Pin=R3-1
+Added Pin To Net: NetName=+3.3 Pin=R9-2
+Added Pin To Net: NetName=+3.3 Pin=R10-1
+Added Pin To Net: NetName=+3.3 Pin=R11-2
+Added Pin To Net: NetName=+3.3 Pin=R12-1
+Added Pin To Net: NetName=+3.3 Pin=R13-2
+Added Pin To Net: NetName=+3.3 Pin=R14-2
+Added Net: Name=+3.3
+Added Pin To Net: NetName=GND Pin=BH1-12
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=IDC1-9
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB2-4
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?1-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?2-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?3-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?4-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?5-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?6-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?7-2
+Added Pin To Net: NetName=GND Pin=VD2_U_яберндхндш?8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBH1_10 Pin=BH1-10
+Added Pin To Net: NetName=NetBH1_10 Pin=IDC1-1
+Added Net: Name=NetBH1_10
+Added Pin To Net: NetName=NetBH1_11 Pin=BH1-11
+Added Pin To Net: NetName=NetBH1_11 Pin=IDC1-7
+Added Net: Name=NetBH1_11
+Added Pin To Net: NetName=NetBH1_13 Pin=BH1-13
+Added Pin To Net: NetName=NetBH1_13 Pin=IDC1-12
+Added Net: Name=NetBH1_13
+Added Pin To Net: NetName=NetBH1_14 Pin=BH1-14
+Added Pin To Net: NetName=NetBH1_14 Pin=IDC1-14
+Added Net: Name=NetBH1_14
+Added Pin To Net: NetName=NetBH2_1 Pin=BH2-1
+Added Pin To Net: NetName=NetBH2_1 Pin=R10-2
+Added Pin To Net: NetName=NetBH2_1 Pin=S1-2
+Added Net: Name=NetBH2_1
+Added Pin To Net: NetName=NetBH2_2 Pin=BH2-2
+Added Pin To Net: NetName=NetBH2_2 Pin=R12-2
+Added Pin To Net: NetName=NetBH2_2 Pin=SB1-2
+Added Net: Name=NetBH2_2
+Added Pin To Net: NetName=NetBH2_3 Pin=BH2-3
+Added Pin To Net: NetName=NetBH2_3 Pin=C3-2
+Added Pin To Net: NetName=NetBH2_3 Pin=R13-1
+Added Pin To Net: NetName=NetBH2_3 Pin=SB2-1
+Added Net: Name=NetBH2_3
+Added Pin To Net: NetName=NetBH2_4 Pin=BH2-4
+Added Pin To Net: NetName=NetBH2_4 Pin=C4-2
+Added Pin To Net: NetName=NetBH2_4 Pin=R14-1
+Added Pin To Net: NetName=NetBH2_4 Pin=SB2-3
+Added Net: Name=NetBH2_4
+Added Pin To Net: NetName=NetBH2_5 Pin=BH2-5
+Added Pin To Net: NetName=NetBH2_5 Pin=C2-2
+Added Pin To Net: NetName=NetBH2_5 Pin=R11-1
+Added Pin To Net: NetName=NetBH2_5 Pin=SB2-5
+Added Net: Name=NetBH2_5
+Added Pin To Net: NetName=NetBH3_1 Pin=BH3-1
+Added Pin To Net: NetName=NetBH3_1 Pin=LCD1-4
+Added Net: Name=NetBH3_1
+Added Pin To Net: NetName=NetBH3_2 Pin=BH3-2
+Added Pin To Net: NetName=NetBH3_2 Pin=LCD1-6
+Added Net: Name=NetBH3_2
+Added Pin To Net: NetName=NetBH3_3 Pin=BH3-3
+Added Pin To Net: NetName=NetBH3_3 Pin=LCD1-11
+Added Net: Name=NetBH3_3
+Added Pin To Net: NetName=NetBH3_4 Pin=BH3-4
+Added Pin To Net: NetName=NetBH3_4 Pin=LCD1-12
+Added Net: Name=NetBH3_4
+Added Pin To Net: NetName=NetBH3_5 Pin=BH3-5
+Added Pin To Net: NetName=NetBH3_5 Pin=LCD1-13
+Added Net: Name=NetBH3_5
+Added Pin To Net: NetName=NetBH3_6 Pin=BH3-6
+Added Pin To Net: NetName=NetBH3_6 Pin=LCD1-14
+Added Net: Name=NetBH3_6
+Added Pin To Net: NetName=NetLCD1_1 Pin=LCD1-1
+Added Pin To Net: NetName=NetLCD1_1 Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_1 Pin=R3-2
+Added Net: Name=NetLCD1_1
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_3 Pin=R3-3
+Added Net: Name=NetLCD1_3
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_5 Pin=R4-1
+Added Net: Name=NetLCD1_5
+Added Pin To Net: NetName=NetLCD1_7 Pin=LCD1-7
+Added Pin To Net: NetName=NetLCD1_7 Pin=R5-1
+Added Net: Name=NetLCD1_7
+Added Pin To Net: NetName=NetLCD1_8 Pin=LCD1-8
+Added Pin To Net: NetName=NetLCD1_8 Pin=R6-1
+Added Net: Name=NetLCD1_8
+Added Pin To Net: NetName=NetLCD1_9 Pin=LCD1-9
+Added Pin To Net: NetName=NetLCD1_9 Pin=R7-1
+Added Net: Name=NetLCD1_9
+Added Pin To Net: NetName=NetLCD1_10 Pin=LCD1-10
+Added Pin To Net: NetName=NetLCD1_10 Pin=R8-1
+Added Net: Name=NetLCD1_10
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_15 Pin=R9-1
+Added Net: Name=NetLCD1_15
+Added Pin To Net: NetName=NetR2_U_яберндхндш?1_1 Pin=R2_U_яберндхндш?1-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?1_1 Pin=VD2_U_яберндхндш?1-1
+Added Net: Name=NetR2_U_яберндхндш?1_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?2_1 Pin=R2_U_яберндхндш?2-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?2_1 Pin=VD2_U_яберндхндш?2-1
+Added Net: Name=NetR2_U_яберндхндш?2_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?3_1 Pin=R2_U_яберндхндш?3-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?3_1 Pin=VD2_U_яберндхндш?3-1
+Added Net: Name=NetR2_U_яберндхндш?3_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?4_1 Pin=R2_U_яберндхндш?4-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?4_1 Pin=VD2_U_яберндхндш?4-1
+Added Net: Name=NetR2_U_яберндхндш?4_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?5_1 Pin=R2_U_яберндхндш?5-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?5_1 Pin=VD2_U_яберндхндш?5-1
+Added Net: Name=NetR2_U_яберндхндш?5_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?6_1 Pin=R2_U_яберндхндш?6-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?6_1 Pin=VD2_U_яберндхндш?6-1
+Added Net: Name=NetR2_U_яберндхндш?6_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?7_1 Pin=R2_U_яберндхндш?7-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?7_1 Pin=VD2_U_яберндхндш?7-1
+Added Net: Name=NetR2_U_яберндхндш?7_1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?8_1 Pin=R2_U_яберндхндш?8-1
+Added Pin To Net: NetName=NetR2_U_яберндхндш?8_1 Pin=VD2_U_яберндхндш?8-1
+Added Net: Name=NetR2_U_яберндхндш?8_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш1_1 Pin=R?_U_яберндхндш1-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш1_1 Pin=VD1_U_яберндхндш?1-1
+Added Net: Name=NetR?_U_яберндхндш1_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш2_1 Pin=R?_U_яберндхндш2-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш2_1 Pin=VD1_U_яберндхндш?2-1
+Added Net: Name=NetR?_U_яберндхндш2_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш3_1 Pin=R?_U_яберндхндш3-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш3_1 Pin=VD1_U_яберндхндш?3-1
+Added Net: Name=NetR?_U_яберндхндш3_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш4_1 Pin=R?_U_яберндхндш4-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш4_1 Pin=VD1_U_яберндхндш?4-1
+Added Net: Name=NetR?_U_яберндхндш4_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш5_1 Pin=R?_U_яберндхндш5-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш5_1 Pin=VD1_U_яберндхндш?5-1
+Added Net: Name=NetR?_U_яберндхндш5_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш6_1 Pin=R?_U_яберндхндш6-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш6_1 Pin=VD1_U_яберндхндш?6-1
+Added Net: Name=NetR?_U_яберндхндш6_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш7_1 Pin=R?_U_яберндхндш7-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш7_1 Pin=VD1_U_яберндхндш?7-1
+Added Net: Name=NetR?_U_яберндхндш7_1
+Added Pin To Net: NetName=NetR?_U_яберндхндш8_1 Pin=R?_U_яберндхндш8-1
+Added Pin To Net: NetName=NetR?_U_яберндхндш8_1 Pin=VD1_U_яберндхндш?8-1
+Added Net: Name=NetR?_U_яберндхндш8_1
+Added Pin To Net: NetName=ца1 Pin=BH1-1
+Added Pin To Net: NetName=ца1 Pin=VD1_U_яберндхндш?8-2
+Added Net: Name=ца1
+Added Pin To Net: NetName=ца2 Pin=BH1-2
+Added Pin To Net: NetName=ца2 Pin=VD1_U_яберндхндш?7-2
+Added Net: Name=ца2
+Added Pin To Net: NetName=ца3 Pin=BH1-3
+Added Pin To Net: NetName=ца3 Pin=VD1_U_яберндхндш?6-2
+Added Net: Name=ца3
+Added Pin To Net: NetName=ца4 Pin=BH1-4
+Added Pin To Net: NetName=ца4 Pin=VD1_U_яберндхндш?5-2
+Added Net: Name=ца4
+Added Pin To Net: NetName=ца5 Pin=BH1-5
+Added Pin To Net: NetName=ца5 Pin=VD1_U_яберндхндш?4-2
+Added Net: Name=ца5
+Added Pin To Net: NetName=ца6 Pin=BH1-6
+Added Pin To Net: NetName=ца6 Pin=VD1_U_яберндхндш?3-2
+Added Net: Name=ца6
+Added Pin To Net: NetName=ца7 Pin=BH1-7
+Added Pin To Net: NetName=ца7 Pin=VD1_U_яберндхндш?2-2
+Added Net: Name=ца7
+Added Pin To Net: NetName=ца8 Pin=BH1-8
+Added Pin To Net: NetName=ца8 Pin=VD1_U_яберндхндш?1-2
+Added Net: Name=ца8
+Added Pin To Net: NetName=пх Pin=BH2-6
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш1-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш2-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш3-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш4-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш5-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш6-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш7-2
+Added Pin To Net: NetName=пх Pin=R?_U_яберндхндш8-2
+Added Net: Name=пх
+Added Class: Name=U_яберндхндш?1
+Added Class: Name=U_яберндхндш?2
+Added Class: Name=U_яберндхндш?3
+Added Class: Name=U_яберндхндш?4
+Added Class: Name=U_яберндхндш?5
+Added Class: Name=U_яберндхндш?6
+Added Class: Name=U_яберндхндш?7
+Added Class: Name=U_яберндхндш?8
+Added Class: Name=СОПЮБКЕМХЕ+НРКЮДЙЮ
+Added Class: Name=яберндхндш
+Added Room: Name=U_яберндхндш?1
+Added Room: Name=U_яберндхндш?2
+Added Room: Name=U_яберндхндш?3
+Added Room: Name=U_яберндхндш?4
+Added Room: Name=U_яберндхндш?5
+Added Room: Name=U_яберндхндш?6
+Added Room: Name=U_яберндхндш?7
+Added Room: Name=U_яберндхндш?8
+Added Room: Name=СОПЮБКЕМХЕ+НРКЮДЙЮ

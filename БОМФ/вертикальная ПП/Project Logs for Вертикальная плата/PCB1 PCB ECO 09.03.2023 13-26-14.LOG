@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetBH3_1 Pin=BH3-8
+Removed Pin From Net: NetName=NetBH3_2 Pin=BH3-9
+Removed Pin From Net: NetName=NetBH3_3 Pin=BH3-10
+Removed Pin From Net: NetName=NetBH3_4 Pin=BH3-11
+Removed Pin From Net: NetName=NetBH3_5 Pin=BH3-12
+Removed Pin From Net: NetName=NetBH3_6 Pin=BH3-13
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Room: Name=управление+отладка

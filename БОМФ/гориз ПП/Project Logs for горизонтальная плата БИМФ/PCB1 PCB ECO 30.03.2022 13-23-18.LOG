@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=NetBH1_10 Pin=C10-2

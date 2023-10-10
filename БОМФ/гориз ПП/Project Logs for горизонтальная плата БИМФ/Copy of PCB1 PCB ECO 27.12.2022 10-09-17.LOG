@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+3.3 Pin=BH3-13
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=C1_in b2
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=C1_in b3
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=C1_in b5
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=C8
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=DD1_in b2
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=DD1_in b4
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=DD1_in b6
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=DD2
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=R2_in b5
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=R3_in b6
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=R5_in b1
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=R5_in b6
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=R6_in b1
+Removed Member From Class: ClassName=U_ÓÏĞÀÂË Member=R6_in b6
+Removed Member From Class: ClassName=ÑÎÅÄ Member=XH5
+Removed Member From Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=XH11
+Added Pin To Net: NetName=+3.3 Pin=BH3-7
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component BH1 BH-14 (DS1013-14S) (IDC-14MS)
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component C3 C(ceramic)
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component C5 C(AlEL)
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component C6 C(ceramic)
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component C12 C(ceramic)
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component DD2 74HC4051
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component DD4 74HC4051
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component DD6 74HC4051
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component DD7 MSP430FR2355TPT
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component R7 R
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component R8 R
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component R11 R
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component R13 R
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component R14 R
+Added Member To Class: ClassName=U_ÓÏĞÀÂË Member=Component R16 R
+Added Member To Class: ClassName=U_ÑÎÃËÀÑÎÂÀÍÈÅ Member=Component XH2 ÕÍ(2)
+Added Member To Class: ClassName=ÑÎÅÄ Member=Component XH8 ÕÍ(4)
+Added Member To Class: ClassName=ÑÎÅÄ Member=Component XH11 ÕÍ(4)

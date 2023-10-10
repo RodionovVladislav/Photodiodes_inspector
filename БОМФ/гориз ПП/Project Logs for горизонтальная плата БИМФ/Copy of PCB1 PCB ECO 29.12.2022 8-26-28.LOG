@@ -1,0 +1,211 @@
+Removed Pin From Net: NetName=NetBH3_1 Pin=BH3-8
+Removed Pin From Net: NetName=NetBH3_2 Pin=BH3-9
+Removed Pin From Net: NetName=NetBH3_3 Pin=BH3-10
+Removed Pin From Net: NetName=NetBH3_4 Pin=BH3-11
+Removed Pin From Net: NetName=NetBH3_5 Pin=BH3-12
+Removed Pin From Net: NetName=NetBH3_6 Pin=BH3-13
+Removed Member From Class: ClassName=in b2 Member=C8
+Removed Member From Class: ClassName=in b5 Member=C11
+Removed Member From Class: ClassName=in b4 Member=C15
+Removed Member From Class: ClassName=U_янцкюянбюмхе Member=C17
+Removed Member From Class: ClassName=in b2 Member=DD9
+Removed Member From Class: ClassName=in b5 Member=DD11
+Removed Member From Class: ClassName=U_янцкюянбюмхе Member=DD12
+Removed Member From Class: ClassName=in b6 Member=R44
+Removed Member From Class: ClassName=in b6 Member=R49
+Removed Member From Class: ClassName=in b1 Member=R50
+Removed Member From Class: ClassName=in b6 Member=R59
+Removed Member From Class: ClassName=in b6 Member=R60
+Removed Member From Class: ClassName=in b5 Member=R61
+Removed Member From Class: ClassName=in b5 Member=R65
+Removed Member From Class: ClassName=U_пеке5 Member=VT4
+Removed Member From Class: ClassName=U_янцкюянбюмхе Member=XH12
+Removed Member From Class: ClassName=янед Member=XH13
+Change Component Designator: OldDesignator=C1 NewDesignator=C1_in b1
+Change Component Designator: OldDesignator=C2 NewDesignator=C1_in b6
+Change Component Designator: OldDesignator=C3 NewDesignator=C1_in b5
+Change Component Designator: OldDesignator=C4 NewDesignator=C1_in b4
+Change Component Designator: OldDesignator=C5 NewDesignator=C1_in b3
+Change Component Designator: OldDesignator=C6 NewDesignator=C1_in b2
+Change Component Designator: OldDesignator=C7 NewDesignator=C3
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C2
+Change Component Designator: OldDesignator=C10 NewDesignator=C5
+Change Component Designator: OldDesignator=C11 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=C13 NewDesignator=C9
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C15 NewDesignator=C4
+Change Component Designator: OldDesignator=C16 NewDesignator=C10
+Change Component Designator: OldDesignator=C17 NewDesignator=C12
+Change Component Designator: OldDesignator=DD1 NewDesignator=DD1_in b1
+Change Component Designator: OldDesignator=DD2 NewDesignator=DD1_in b6
+Change Component Designator: OldDesignator=DD3 NewDesignator=DD1_in b5
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD1_in b4
+Change Component Designator: OldDesignator=DD5 NewDesignator=DD1_in b3
+Change Component Designator: OldDesignator=DD6 NewDesignator=DD1_in b2
+Change Component Designator: OldDesignator=DD7 NewDesignator=DD2
+Change Component Designator: OldDesignator=DD8 NewDesignator=DD5
+Change Component Designator: OldDesignator=DD9 NewDesignator=DD6
+Change Component Designator: OldDesignator=DD10 NewDesignator=DD4
+Change Component Designator: OldDesignator=DD11 NewDesignator=DD3
+Change Component Designator: OldDesignator=DD12 NewDesignator=DD7
+Change Component Designator: OldDesignator=K1 NewDesignator=K1_U_пеке5
+Change Component Designator: OldDesignator=K2 NewDesignator=K1_U_пеке1
+Change Component Designator: OldDesignator=K3 NewDesignator=K1_U_пеке4
+Change Component Designator: OldDesignator=K4 NewDesignator=K1_U_пеке3
+Change Component Designator: OldDesignator=K5 NewDesignator=K1_U_пеке8
+Change Component Designator: OldDesignator=K6 NewDesignator=K1_U_пеке7
+Change Component Designator: OldDesignator=K7 NewDesignator=K1_U_пеке6
+Change Component Designator: OldDesignator=K8 NewDesignator=K1_U_пеке2
+Change Component Designator: OldDesignator=R1 NewDesignator=R21_U_пеке5
+Change Component Designator: OldDesignator=R2 NewDesignator=R22_U_пеке5
+Change Component Designator: OldDesignator=R3 NewDesignator=R1_in b1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2_in b1
+Change Component Designator: OldDesignator=R5 NewDesignator=R3_in b1
+Change Component Designator: OldDesignator=R6 NewDesignator=R4_in b1
+Change Component Designator: OldDesignator=R7 NewDesignator=R5_in b1
+Change Component Designator: OldDesignator=R8 NewDesignator=R6_in b1
+Change Component Designator: OldDesignator=R9 NewDesignator=R1_in b6
+Change Component Designator: OldDesignator=R10 NewDesignator=R2_in b6
+Change Component Designator: OldDesignator=R11 NewDesignator=R3_in b6
+Change Component Designator: OldDesignator=R12 NewDesignator=R4_in b6
+Change Component Designator: OldDesignator=R13 NewDesignator=R5_in b6
+Change Component Designator: OldDesignator=R14 NewDesignator=R6_in b6
+Change Component Designator: OldDesignator=R15 NewDesignator=R1_in b5
+Change Component Designator: OldDesignator=R16 NewDesignator=R2_in b5
+Change Component Designator: OldDesignator=R17 NewDesignator=R3_in b5
+Change Component Designator: OldDesignator=R18 NewDesignator=R4_in b5
+Change Component Designator: OldDesignator=R19 NewDesignator=R5_in b5
+Change Component Designator: OldDesignator=R20 NewDesignator=R6_in b5
+Change Component Designator: OldDesignator=R21 NewDesignator=R1_in b4
+Change Component Designator: OldDesignator=R22 NewDesignator=R2_in b4
+Change Component Designator: OldDesignator=R23 NewDesignator=R3_in b4
+Change Component Designator: OldDesignator=R24 NewDesignator=R4_in b4
+Change Component Designator: OldDesignator=R25 NewDesignator=R5_in b4
+Change Component Designator: OldDesignator=R26 NewDesignator=R6_in b4
+Change Component Designator: OldDesignator=R27 NewDesignator=R1_in b3
+Change Component Designator: OldDesignator=R28 NewDesignator=R2_in b3
+Change Component Designator: OldDesignator=R29 NewDesignator=R3_in b3
+Change Component Designator: OldDesignator=R30 NewDesignator=R4_in b3
+Change Component Designator: OldDesignator=R31 NewDesignator=R5_in b3
+Change Component Designator: OldDesignator=R32 NewDesignator=R6_in b3
+Change Component Designator: OldDesignator=R33 NewDesignator=R1_in b2
+Change Component Designator: OldDesignator=R34 NewDesignator=R2_in b2
+Change Component Designator: OldDesignator=R35 NewDesignator=R3_in b2
+Change Component Designator: OldDesignator=R36 NewDesignator=R4_in b2
+Change Component Designator: OldDesignator=R37 NewDesignator=R5_in b2
+Change Component Designator: OldDesignator=R38 NewDesignator=R6_in b2
+Change Component Designator: OldDesignator=R39 NewDesignator=R21_U_пеке1
+Change Component Designator: OldDesignator=R40 NewDesignator=R22_U_пеке1
+Change Component Designator: OldDesignator=R41 NewDesignator=R21_U_пеке4
+Change Component Designator: OldDesignator=R42 NewDesignator=R22_U_пеке4
+Change Component Designator: OldDesignator=R43 NewDesignator=R10
+Change Component Designator: OldDesignator=R44 NewDesignator=R13
+Change Component Designator: OldDesignator=R45 NewDesignator=R9
+Change Component Designator: OldDesignator=R46 NewDesignator=R21_U_пеке3
+Change Component Designator: OldDesignator=R47 NewDesignator=R8
+Change Component Designator: OldDesignator=R48 NewDesignator=R22_U_пеке3
+Change Component Designator: OldDesignator=R49 NewDesignator=R14
+Change Component Designator: OldDesignator=R50 NewDesignator=R7
+Change Component Designator: OldDesignator=R51 NewDesignator=R21_U_пеке8
+Change Component Designator: OldDesignator=R52 NewDesignator=R22_U_пеке8
+Change Component Designator: OldDesignator=R53 NewDesignator=R21_U_пеке7
+Change Component Designator: OldDesignator=R54 NewDesignator=R21_U_пеке6
+Change Component Designator: OldDesignator=R55 NewDesignator=R22_U_пеке6
+Change Component Designator: OldDesignator=R56 NewDesignator=R22_U_пеке7
+Change Component Designator: OldDesignator=R57 NewDesignator=R21_U_пеке2
+Change Component Designator: OldDesignator=R58 NewDesignator=R22_U_пеке2
+Change Component Designator: OldDesignator=R59 NewDesignator=R12
+Change Component Designator: OldDesignator=R60 NewDesignator=R11
+Change Component Designator: OldDesignator=R61 NewDesignator=R15
+Change Component Designator: OldDesignator=R62 NewDesignator=R19
+Change Component Designator: OldDesignator=R63 NewDesignator=R20
+Change Component Designator: OldDesignator=R64 NewDesignator=R18
+Change Component Designator: OldDesignator=R65 NewDesignator=R17
+Change Component Designator: OldDesignator=R66 NewDesignator=R16
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD7_U_пеке5
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1_in b1
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD2_in b1
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD3_in b1
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD4_in b1
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD5_in b1
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD6_in b1
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD1_in b6
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD2_in b6
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD3_in b6
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD4_in b6
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD5_in b6
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD6_in b6
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD1_in b5
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD2_in b5
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD3_in b5
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD4_in b5
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD5_in b5
+Change Component Designator: OldDesignator=VD19 NewDesignator=VD6_in b5
+Change Component Designator: OldDesignator=VD20 NewDesignator=VD1_in b4
+Change Component Designator: OldDesignator=VD21 NewDesignator=VD2_in b4
+Change Component Designator: OldDesignator=VD22 NewDesignator=VD3_in b4
+Change Component Designator: OldDesignator=VD23 NewDesignator=VD4_in b4
+Change Component Designator: OldDesignator=VD24 NewDesignator=VD5_in b4
+Change Component Designator: OldDesignator=VD25 NewDesignator=VD6_in b4
+Change Component Designator: OldDesignator=VD26 NewDesignator=VD1_in b3
+Change Component Designator: OldDesignator=VD27 NewDesignator=VD2_in b3
+Change Component Designator: OldDesignator=VD28 NewDesignator=VD3_in b3
+Change Component Designator: OldDesignator=VD29 NewDesignator=VD4_in b3
+Change Component Designator: OldDesignator=VD30 NewDesignator=VD5_in b3
+Change Component Designator: OldDesignator=VD31 NewDesignator=VD6_in b3
+Change Component Designator: OldDesignator=VD32 NewDesignator=VD1_in b2
+Change Component Designator: OldDesignator=VD33 NewDesignator=VD2_in b2
+Change Component Designator: OldDesignator=VD34 NewDesignator=VD3_in b2
+Change Component Designator: OldDesignator=VD35 NewDesignator=VD4_in b2
+Change Component Designator: OldDesignator=VD36 NewDesignator=VD5_in b2
+Change Component Designator: OldDesignator=VD37 NewDesignator=VD6_in b2
+Change Component Designator: OldDesignator=VD38 NewDesignator=VD7_U_пеке1
+Change Component Designator: OldDesignator=VD39 NewDesignator=VD7_U_пеке4
+Change Component Designator: OldDesignator=VD40 NewDesignator=VD7_U_пеке3
+Change Component Designator: OldDesignator=VD41 NewDesignator=VD7_U_пеке8
+Change Component Designator: OldDesignator=VD42 NewDesignator=VD7_U_пеке7
+Change Component Designator: OldDesignator=VD43 NewDesignator=VD7_U_пеке6
+Change Component Designator: OldDesignator=VD44 NewDesignator=VD7_U_пеке2
+Change Component Designator: OldDesignator=VT1 NewDesignator=VT2_U_пеке5
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT2_U_пеке1
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT2_U_пеке4
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT5 NewDesignator=VT2_U_пеке3
+Change Component Designator: OldDesignator=VT6 NewDesignator=VT2_U_пеке8
+Change Component Designator: OldDesignator=VT7 NewDesignator=VT2_U_пеке6
+Change Component Designator: OldDesignator=VT8 NewDesignator=VT2_U_пеке7
+Change Component Designator: OldDesignator=VT9 NewDesignator=VT2_U_пеке2
+Change Component Designator: OldDesignator=XH1 NewDesignator=XH4
+Change Component Designator: OldDesignator=XH2 NewDesignator=XH5
+Change Component Designator: OldDesignator=XH3 NewDesignator=XH1
+Change Component Designator: OldDesignator=XH4 NewDesignator=XH3
+Change Component Designator: OldDesignator=XH5 NewDesignator=XH6
+Change Component Designator: OldDesignator=XH6 NewDesignator=XH7
+Change Component Designator: OldDesignator=XH7 NewDesignator=XH11
+Change Component Designator: OldDesignator=XH8 NewDesignator=XH2
+Change Component Designator: OldDesignator=XH9 NewDesignator=XH15
+Change Component Designator: OldDesignator=XH10 NewDesignator=XH12
+Change Component Designator: OldDesignator=XH11 NewDesignator=XH13
+Change Component Designator: OldDesignator=XH12 NewDesignator=XH8
+Change Component Designator: OldDesignator=XH13 NewDesignator=XH10
+Change Component Designator: OldDesignator=XH15 NewDesignator=XH9
+Added Member To Class: ClassName=U_сопюбк Member=Component BH2 BH14(2)
+Added Member To Class: ClassName=in b2 Member=Component C1_in b2 (C1) C(ceramic)
+Added Member To Class: ClassName=in b4 Member=Component C1_in b4 (C1) C(ceramic)
+Added Member To Class: ClassName=in b5 Member=Component C1_in b5 (C1) C(ceramic)
+Added Member To Class: ClassName=U_янцкюянбюмхе Member=Component C8 C(ceramic)
+Added Member To Class: ClassName=in b2 Member=Component DD1_in b2 (DD1) 74HC4050
+Added Member To Class: ClassName=in b5 Member=Component DD1_in b5 (DD1) 74HC4050
+Added Member To Class: ClassName=U_янцкюянбюмхе Member=Component DD2 74HC4051
+Added Member To Class: ClassName=in b5 Member=Component R1_in b5 (R1) R
+Added Member To Class: ClassName=in b5 Member=Component R3_in b5 (R3) R
+Added Member To Class: ClassName=in b6 Member=Component R3_in b6 (R3) R
+Added Member To Class: ClassName=in b6 Member=Component R4_in b6 (R4) R
+Added Member To Class: ClassName=in b1 Member=Component R5_in b1 (R5) R
+Added Member To Class: ClassName=in b6 Member=Component R5_in b6 (R5) R
+Added Member To Class: ClassName=in b6 Member=Component R6_in b6 (R6) R
+Added Member To Class: ClassName=U_пеке5 Member=Component VT2_U_пеке5 (VT2) BC837(йр3130)
+Added Member To Class: ClassName=U_янцкюянбюмхе Member=Component XH7 уH(6)
+Added Member To Class: ClassName=янед Member=Component XH12 ум(4)
