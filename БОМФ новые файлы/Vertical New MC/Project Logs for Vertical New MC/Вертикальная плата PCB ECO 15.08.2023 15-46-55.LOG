@@ -1,0 +1,241 @@
+Added Component: Designator=*(IDC20)
+Added Component: Designator=BH1(BH-14 (DS1013-14S) (IDC-14MS))
+Added Component: Designator=C1(C(ceramic))
+Added Component: Designator=K1(AK-304-N-BBW)
+Added Component: Designator=LCD1(BCB1602)
+Added Component: Designator=R1_U_Светодиоды1(R)
+Added Component: Designator=R1_U_Светодиоды2(R)
+Added Component: Designator=R1_U_Светодиоды3(R)
+Added Component: Designator=R1_U_Светодиоды4(R)
+Added Component: Designator=R1_U_Светодиоды5(R)
+Added Component: Designator=R1_U_Светодиоды6(R)
+Added Component: Designator=R1_U_Светодиоды7(R)
+Added Component: Designator=R1_U_Светодиоды8(R)
+Added Component: Designator=R2_U_Светодиоды1(R)
+Added Component: Designator=R2_U_Светодиоды2(R)
+Added Component: Designator=R2_U_Светодиоды3(R)
+Added Component: Designator=R2_U_Светодиоды4(R)
+Added Component: Designator=R2_U_Светодиоды5(R)
+Added Component: Designator=R2_U_Светодиоды6(R)
+Added Component: Designator=R2_U_Светодиоды7(R)
+Added Component: Designator=R2_U_Светодиоды8(R)
+Added Component: Designator=R3(R(подстр))
+Added Component: Designator=R4(R)
+Added Component: Designator=R5(R)
+Added Component: Designator=R6(R)
+Added Component: Designator=R7(R)
+Added Component: Designator=R8(R)
+Added Component: Designator=R9(R)
+Added Component: Designator=R10(R)
+Added Component: Designator=R11(R)
+Added Component: Designator=S1(MTS-2)
+Added Component: Designator=SB1(кнопка)
+Added Component: Designator=VD1_U_Светодиоды1(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды2(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды3(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды4(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды5(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды6(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды7(L-934(RED))
+Added Component: Designator=VD1_U_Светодиоды8(L-934(RED))
+Added Component: Designator=VD2_U_Светодиоды1(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды2(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды3(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды4(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды5(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды6(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды7(L-934(GREEN))
+Added Component: Designator=VD2_U_Светодиоды8(L-934(GREEN))
+Added Pin To Net: NetName=+3.3 Pin=C1-2
+Added Pin To Net: NetName=+3.3 Pin=LCD1-2
+Added Pin To Net: NetName=+3.3 Pin=R3-1
+Added Pin To Net: NetName=+3.3 Pin=R9-1
+Added Pin To Net: NetName=+3.3 Pin=R11-1
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=BH1-7
+Added Pin To Net: NetName=+5 Pin=R10-2
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=BH1-14
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды1-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды2-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды3-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды4-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды5-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды6-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды7-2
+Added Pin To Net: NetName=GND Pin=VD2_U_Светодиоды8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R9-2
+Added Pin To Net: NetName=Net*_1 Pin=S1-2
+Added Pin To Net: NetName=Net*_1 Pin=S1-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R11-2
+Added Pin To Net: NetName=Net*_2 Pin=SB1-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=NetBH1_1 Pin=BH1-1
+Added Pin To Net: NetName=NetBH1_1 Pin=LCD1-4
+Added Net: Name=NetBH1_1
+Added Pin To Net: NetName=NetBH1_2 Pin=BH1-2
+Added Pin To Net: NetName=NetBH1_2 Pin=LCD1-6
+Added Net: Name=NetBH1_2
+Added Pin To Net: NetName=NetBH1_3 Pin=BH1-3
+Added Pin To Net: NetName=NetBH1_3 Pin=LCD1-11
+Added Net: Name=NetBH1_3
+Added Pin To Net: NetName=NetBH1_4 Pin=BH1-4
+Added Pin To Net: NetName=NetBH1_4 Pin=LCD1-12
+Added Net: Name=NetBH1_4
+Added Pin To Net: NetName=NetBH1_5 Pin=BH1-5
+Added Pin To Net: NetName=NetBH1_5 Pin=LCD1-13
+Added Net: Name=NetBH1_5
+Added Pin To Net: NetName=NetBH1_6 Pin=BH1-6
+Added Pin To Net: NetName=NetBH1_6 Pin=LCD1-14
+Added Net: Name=NetBH1_6
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_3 Pin=R3-3
+Added Net: Name=NetLCD1_3
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_5 Pin=R4-1
+Added Net: Name=NetLCD1_5
+Added Pin To Net: NetName=NetLCD1_7 Pin=LCD1-7
+Added Pin To Net: NetName=NetLCD1_7 Pin=R5-1
+Added Net: Name=NetLCD1_7
+Added Pin To Net: NetName=NetLCD1_8 Pin=LCD1-8
+Added Pin To Net: NetName=NetLCD1_8 Pin=R6-1
+Added Net: Name=NetLCD1_8
+Added Pin To Net: NetName=NetLCD1_9 Pin=LCD1-9
+Added Pin To Net: NetName=NetLCD1_9 Pin=R7-1
+Added Net: Name=NetLCD1_9
+Added Pin To Net: NetName=NetLCD1_10 Pin=LCD1-10
+Added Pin To Net: NetName=NetLCD1_10 Pin=R8-1
+Added Net: Name=NetLCD1_10
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_15 Pin=R10-1
+Added Net: Name=NetLCD1_15
+Added Pin To Net: NetName=NetR1_U_Светодиоды1_1 Pin=R1_U_Светодиоды1-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды1_1 Pin=VD1_U_Светодиоды1-1
+Added Net: Name=NetR1_U_Светодиоды1_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды2_1 Pin=R1_U_Светодиоды2-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды2_1 Pin=VD1_U_Светодиоды2-1
+Added Net: Name=NetR1_U_Светодиоды2_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды3_1 Pin=R1_U_Светодиоды3-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды3_1 Pin=VD1_U_Светодиоды3-1
+Added Net: Name=NetR1_U_Светодиоды3_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды4_1 Pin=R1_U_Светодиоды4-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды4_1 Pin=VD1_U_Светодиоды4-1
+Added Net: Name=NetR1_U_Светодиоды4_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды5_1 Pin=R1_U_Светодиоды5-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды5_1 Pin=VD1_U_Светодиоды5-1
+Added Net: Name=NetR1_U_Светодиоды5_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды6_1 Pin=R1_U_Светодиоды6-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды6_1 Pin=VD1_U_Светодиоды6-1
+Added Net: Name=NetR1_U_Светодиоды6_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды7_1 Pin=R1_U_Светодиоды7-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды7_1 Pin=VD1_U_Светодиоды7-1
+Added Net: Name=NetR1_U_Светодиоды7_1
+Added Pin To Net: NetName=NetR1_U_Светодиоды8_1 Pin=R1_U_Светодиоды8-1
+Added Pin To Net: NetName=NetR1_U_Светодиоды8_1 Pin=VD1_U_Светодиоды8-1
+Added Net: Name=NetR1_U_Светодиоды8_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды1_1 Pin=R2_U_Светодиоды1-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды1_1 Pin=VD2_U_Светодиоды1-1
+Added Net: Name=NetR2_U_Светодиоды1_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды2_1 Pin=R2_U_Светодиоды2-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды2_1 Pin=VD2_U_Светодиоды2-1
+Added Net: Name=NetR2_U_Светодиоды2_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды3_1 Pin=R2_U_Светодиоды3-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды3_1 Pin=VD2_U_Светодиоды3-1
+Added Net: Name=NetR2_U_Светодиоды3_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды4_1 Pin=R2_U_Светодиоды4-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды4_1 Pin=VD2_U_Светодиоды4-1
+Added Net: Name=NetR2_U_Светодиоды4_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды5_1 Pin=R2_U_Светодиоды5-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды5_1 Pin=VD2_U_Светодиоды5-1
+Added Net: Name=NetR2_U_Светодиоды5_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды6_1 Pin=R2_U_Светодиоды6-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды6_1 Pin=VD2_U_Светодиоды6-1
+Added Net: Name=NetR2_U_Светодиоды6_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды7_1 Pin=R2_U_Светодиоды7-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды7_1 Pin=VD2_U_Светодиоды7-1
+Added Net: Name=NetR2_U_Светодиоды7_1
+Added Pin To Net: NetName=NetR2_U_Светодиоды8_1 Pin=R2_U_Светодиоды8-1
+Added Pin To Net: NetName=NetR2_U_Светодиоды8_1 Pin=VD2_U_Светодиоды8-1
+Added Net: Name=NetR2_U_Светодиоды8_1
+Added Pin To Net: NetName=ГБ1 Pin=*-11
+Added Pin To Net: NetName=ГБ1 Pin=R2_U_Светодиоды1-2
+Added Pin To Net: NetName=ГБ1 Pin=VD1_U_Светодиоды1-2
+Added Net: Name=ГБ1
+Added Pin To Net: NetName=ГБ2 Pin=*-12
+Added Pin To Net: NetName=ГБ2 Pin=R2_U_Светодиоды2-2
+Added Pin To Net: NetName=ГБ2 Pin=VD1_U_Светодиоды2-2
+Added Net: Name=ГБ2
+Added Pin To Net: NetName=ГБ3 Pin=*-13
+Added Pin To Net: NetName=ГБ3 Pin=R2_U_Светодиоды3-2
+Added Pin To Net: NetName=ГБ3 Pin=VD1_U_Светодиоды3-2
+Added Net: Name=ГБ3
+Added Pin To Net: NetName=ГБ4 Pin=*-14
+Added Pin To Net: NetName=ГБ4 Pin=R2_U_Светодиоды4-2
+Added Pin To Net: NetName=ГБ4 Pin=VD1_U_Светодиоды4-2
+Added Net: Name=ГБ4
+Added Pin To Net: NetName=ГБ5 Pin=*-15
+Added Pin To Net: NetName=ГБ5 Pin=R2_U_Светодиоды5-2
+Added Pin To Net: NetName=ГБ5 Pin=VD1_U_Светодиоды5-2
+Added Net: Name=ГБ5
+Added Pin To Net: NetName=ГБ6 Pin=*-16
+Added Pin To Net: NetName=ГБ6 Pin=R2_U_Светодиоды6-2
+Added Pin To Net: NetName=ГБ6 Pin=VD1_U_Светодиоды6-2
+Added Net: Name=ГБ6
+Added Pin To Net: NetName=ГБ7 Pin=*-17
+Added Pin To Net: NetName=ГБ7 Pin=R2_U_Светодиоды7-2
+Added Pin To Net: NetName=ГБ7 Pin=VD1_U_Светодиоды7-2
+Added Net: Name=ГБ7
+Added Pin To Net: NetName=ГБ8 Pin=*-18
+Added Pin To Net: NetName=ГБ8 Pin=R2_U_Светодиоды8-2
+Added Pin To Net: NetName=ГБ8 Pin=VD1_U_Светодиоды8-2
+Added Net: Name=ГБ8
+Added Pin To Net: NetName=РИ Pin=*-10
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды1-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды2-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды3-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды4-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды5-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды6-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды7-2
+Added Pin To Net: NetName=РИ Pin=R1_U_Светодиоды8-2
+Added Net: Name=РИ
+Added Class: Name=U_Светодиоды1
+Added Class: Name=U_Светодиоды2
+Added Class: Name=U_Светодиоды3
+Added Class: Name=U_Светодиоды4
+Added Class: Name=U_Светодиоды5
+Added Class: Name=U_Светодиоды6
+Added Class: Name=U_Светодиоды7
+Added Class: Name=U_Светодиоды8
+Added Class: Name=Управление (дисплей+клавиатура)
+Added Class: Name=Светодиоды

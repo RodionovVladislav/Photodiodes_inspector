@@ -1,0 +1,21 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\Public\Documents\Altium\Приставка\Vertical New MC.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=11.08.2023|TIME=13:33:48|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=101!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=101!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=UGO.SchLib\R|DESIGNITEMID=R|ITEMSOURCE=UGO.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=R|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,R|COMPONENTPARAMETERS=Comment=R,"Component Kind=Standard",Description=,Footprint=R,"Ibis Model=","Library Name=UGO.SchLib","Library Reference=R",PCB3D=,"Pin Info=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=UGO.SchLib\L-934(RED)|DESIGNITEMID=L-934(RED)|ITEMSOURCE=UGO.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=L-934(RED)|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,L-934(RED)|COMPONENTPARAMETERS=Comment=L-934(RED),"Component Kind=Standard",Description=,Footprint=L-934(RED),"Ibis Model=","Library Name=UGO.SchLib","Library Reference=L-934(RED)",PCB3D=,"Pin Info=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=UGO.SchLib\L-934(GREEN)|DESIGNITEMID=L-934(GREEN)|ITEMSOURCE=UGO.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=L-934(GREEN)|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,L-934(GREEN)|COMPONENTPARAMETERS=Comment=L-934(GREEN),"Component Kind=Standard",Description=,Footprint=L-934(GREEN),"Ibis Model=","Library Name=UGO.SchLib","Library Reference=L-934(GREEN)",PCB3D=,"Pin Info=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0

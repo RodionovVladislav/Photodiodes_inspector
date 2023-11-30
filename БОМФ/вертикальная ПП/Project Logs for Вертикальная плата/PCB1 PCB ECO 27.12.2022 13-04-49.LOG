@@ -1,8 +1,0 @@
-Change Component Designator: OldDesignator=R1_8 NewDesignator=R1_U_ÑÂÅÒÎÄÈÎÄÛ8
-Change Component Designator: OldDesignator=R2_8 NewDesignator=R2_U_ÑÂÅÒÎÄÈÎÄÛ8
-Change Component Designator: OldDesignator=VD1_8 NewDesignator=VD1_U_ÑÂÅÒÎÄÈÎÄÛ8
-Change Component Designator: OldDesignator=VD2_8 NewDesignator=VD2_U_ÑÂÅÒÎÄÈÎÄÛ8
-Change Net Name : Old Net Name=NetR1_8_1 New Net Name=NetR1_U_ÑÂÅÒÎÄÈÎÄÛ8_1
-Change Net Name : Old Net Name=NetR2_8_1 New Net Name=NetR2_U_ÑÂÅÒÎÄÈÎÄÛ8_1
-Change Class Name : Old Net Name=8 New Net Name=U_ÑÂÅÒÎÄÈÎÄÛ8
-Added Room: Name=U_ÑÂÅÒÎÄÈÎÄÛ8

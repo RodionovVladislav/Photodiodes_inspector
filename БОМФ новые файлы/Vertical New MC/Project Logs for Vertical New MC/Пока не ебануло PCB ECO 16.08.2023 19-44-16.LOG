@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=РИ Pin=BH2-10
+Removed Pin From Net: NetName=ГБ1 Pin=BH2-11
+Removed Pin From Net: NetName=ГБ2 Pin=BH2-12
+Removed Pin From Net: NetName=ГБ3 Pin=BH2-13
+Removed Pin From Net: NetName=ГБ4 Pin=BH2-14
+Removed Pin From Net: NetName=ГБ5 Pin=BH2-15
+Removed Pin From Net: NetName=ГБ6 Pin=BH2-16
+Removed Pin From Net: NetName=ГБ7 Pin=BH2-17
+Removed Pin From Net: NetName=ГБ8 Pin=BH2-18
+Removed Member From Class: ClassName=Управление (дисплей+клавиатура) Member=BH2
+Added Component: Designator=*(IDC20)
+Added Pin To Net: NetName=РИ Pin=*-10
+Added Pin To Net: NetName=ГБ1 Pin=*-11
+Added Pin To Net: NetName=ГБ2 Pin=*-12
+Added Pin To Net: NetName=ГБ3 Pin=*-13
+Added Pin To Net: NetName=ГБ4 Pin=*-14
+Added Pin To Net: NetName=ГБ5 Pin=*-15
+Added Pin To Net: NetName=ГБ6 Pin=*-16
+Added Pin To Net: NetName=ГБ7 Pin=*-17
+Added Pin To Net: NetName=ГБ8 Pin=*-18
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R9-2
+Added Pin To Net: NetName=Net*_1 Pin=S1-2
+Added Pin To Net: NetName=Net*_1 Pin=S1-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R11-2
+Added Pin To Net: NetName=Net*_2 Pin=SB1-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R12-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=R13-1
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=R14-1
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=R15-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=R16-1
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=R17-1
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=R18-1
+Added Net: Name=Net*_9
+Added Class: Name=Светодиоды

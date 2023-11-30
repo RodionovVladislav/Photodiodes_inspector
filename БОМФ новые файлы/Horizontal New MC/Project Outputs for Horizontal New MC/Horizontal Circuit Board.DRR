@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Horizontal Circuit Board.PcbDoc   13.10.2023  15:46:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Horizontal Circuit Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T2      0.5mm (20mil)                                             Round             372       PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             8         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             64        PTH        0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             78        PTH        0.00mm (0.00inch)
+T7      1.2mm (47mil)                                             Round             14        PTH        0.00mm (0.00inch)
+T8      3.2mm (126mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              543
+
+Total Processing Time (hh:mm:ss) : 00:00:01
