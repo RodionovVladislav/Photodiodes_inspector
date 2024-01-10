@@ -4,8 +4,8 @@
 #include "at32f403a_407_wk_config.h"
 #include "stdbool.h"
 
-//void InitKeyboard(void);
-//void ScanKeyboard(void);
-//uint8_t GetKey(void);
+void InitKeyboard(void);
+void ScanKeyboard(void);
+uint8_t GetKey(void);
 
 #endif

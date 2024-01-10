@@ -1,0 +1,35 @@
+[33mcommit c87ac2e927963d38e5159f38c3bd833a104f12e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Владислав <rodych.yt@mail.ru>
+Date:   Wed Jan 10 13:16:33 2024 +0300
+
+    Обмен между устройствами
+
+[33mcommit 26b97716e6ae579e4b1853c12e130436c69468a4[m
+Author: RodionovVladislav <119339253+RodionovVladislav@users.noreply.github.com>
+Date:   Wed Jan 10 12:25:34 2024 +0300
+
+    Версия с недоделанной клавиатурой
+
+[33mcommit 4799863f5fc234be479d51ee0ca5e18060fed9c7[m
+Author: RodionovVladislav <119339253+RodionovVladislav@users.noreply.github.com>
+Date:   Thu Nov 30 21:37:08 2023 +0300
+
+    Добавил новые схемы проекта. Код конфигурации пинов под светодиоды и клавиатуру. Файлы c и h под библиотеку для клавиатуры
+
+[33mcommit f977979cfc7626094308876e1a047348aa3c1414[m
+Author: RodionovVladislav <119339253+RodionovVladislav@users.noreply.github.com>
+Date:   Thu Oct 12 12:50:02 2023 +0300
+
+    Добавил шаблон проекта с настройками тактирования от кварца
+
+[33mcommit 2bb32ccf9ee1562f857a46f1892552b564308c01[m
+Author: RodionovVladislav <119339253+RodionovVladislav@users.noreply.github.com>
+Date:   Tue Oct 10 21:39:41 2023 +0300
+
+    Add БОМФ files
+
+[33mcommit 6a1dc8f53ee7121853283d39addc07e6ec228393[m
+Author: Владислав <119339253+RodionovVladislav@users.noreply.github.com>
+Date:   Tue Oct 10 21:05:48 2023 +0300
+
+    Initial commit
