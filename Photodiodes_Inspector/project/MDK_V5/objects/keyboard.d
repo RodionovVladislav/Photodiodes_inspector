@@ -1,1 +1,1 @@
-.\objects\keyboard.o: ..\src\Keyboard.c
+./objects/keyboard.o: ..\src\Keyboard.c

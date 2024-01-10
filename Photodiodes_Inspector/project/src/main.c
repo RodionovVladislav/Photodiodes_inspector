@@ -105,6 +105,10 @@ void ScanKey(void)
 		{
 			KeyCode  = GPIOE -> idt & 0x00E0;
 			KeyCode |= GPIOE -> odt & 0x001E;
+			gpio_bits_set(GPIOD, GPIO_PINS_9);
+			Delay(100);
+			gpio_bits_reset(GPIOD, GPIO_PINS_9);
+			Delay(100);
 		}
 		ActiveRow <<= 1;
 	}
