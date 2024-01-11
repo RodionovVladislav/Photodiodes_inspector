@@ -22,3 +22,5 @@
 .\objects\main.o: ..\inc\Keyboard.h
 .\objects\main.o: ..\inc\stdbool.h
 .\objects\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h

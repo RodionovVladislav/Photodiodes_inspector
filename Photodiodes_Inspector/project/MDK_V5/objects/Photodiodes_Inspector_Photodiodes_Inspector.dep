@@ -1,5 +1,5 @@
 Dependencies for Project 'Photodiodes_Inspector', Target 'Photodiodes_Inspector': (DO NOT MODIFY !)
-F (..\src\main.c)(0x659ED612)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\src\main.c)(0x65A03409)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\inc\at32f403a_407_wk_config.h)(0x657ECD09)
 I (..\..\libraries\cmsis\cm4\device_support\at32f403a_407.h)(0x657759E3)
 I (..\..\libraries\cmsis\cm4\core_support\core_cm4.h)(0x657759E3)
@@ -19,9 +19,11 @@ I (..\..\libraries\drivers\inc\at32f403a_407_misc.h)(0x657759E3)
 I (..\..\libraries\drivers\inc\at32f403a_407_pwc.h)(0x657759E3)
 I (..\..\libraries\drivers\inc\at32f403a_407_tmr.h)(0x657ECCF8)
 I (..\inc\lcd.h)(0x657ED359)
-I (..\inc\Keyboard.h)(0x659ED64E)
+I (..\inc\Keyboard.h)(0x659EE1E0)
 I (..\inc\stdbool.h)(0x616C9F90)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x599F137C)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x599F137C)
 F (..\src\at32f403a_407_wk_config.c)(0x657ECD09)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\at32f403a_407_wk_config.o --omf_browse .\objects\at32f403a_407_wk_config.crf --depend .\objects\at32f403a_407_wk_config.d)
 I (..\inc\at32f403a_407_wk_config.h)(0x657ECD09)
 I (..\..\libraries\cmsis\cm4\device_support\at32f403a_407.h)(0x657759E3)
@@ -60,8 +62,8 @@ I (..\..\libraries\drivers\inc\at32f403a_407_gpio.h)(0x657759E3)
 I (..\..\libraries\drivers\inc\at32f403a_407_misc.h)(0x657759E3)
 I (..\..\libraries\drivers\inc\at32f403a_407_pwc.h)(0x657759E3)
 I (..\..\libraries\drivers\inc\at32f403a_407_tmr.h)(0x657ECCF8)
-F (..\src\Keyboard.c)(0x659ED621)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\keyboard.o --omf_browse .\objects\keyboard.crf --depend .\objects\keyboard.d)
-I (..\inc\Keyboard.h)(0x659ED64E)
+F (..\src\Keyboard.c)(0x659EE8C2)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\keyboard.o --omf_browse .\objects\keyboard.crf --depend .\objects\keyboard.d)
+I (..\inc\Keyboard.h)(0x659EE1E0)
 I (..\inc\at32f403a_407_wk_config.h)(0x657ECD09)
 I (..\..\libraries\cmsis\cm4\device_support\at32f403a_407.h)(0x657759E3)
 I (..\..\libraries\cmsis\cm4\core_support\core_cm4.h)(0x657759E3)

@@ -31,12 +31,25 @@
 /* add user code begin private includes */
 #include "lcd.h"
 #include "Keyboard.h"
-#include "stdio.h" 
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
+
 /* add user code end private includes */
 
 /* private typedef -----------------------------------------------------------*/
 /* add user code begin private typedef */
+char 		 	Str[] = "Enter value:";
+char			DeviceStatus = 0;
+char 			Symbol = 0;
+char			SymbolStrValue[20] = "";
+char			*endstr;
+float			SymbolDecValue = 0;
 
+
+
+uint16_t 	IntIDTValue = 0;
+char 		 	StrIDTValue[16] = "Next";
 /* add user code end private typedef */
 
 /* private define ------------------------------------------------------------*/
@@ -61,9 +74,7 @@
 
 /* private user code ---------------------------------------------------------*/
 /* add user code begin 0 */
-char 		 	string[] = "Enter value:";
-uint16_t 	IntIDTValue = 0;
-char 		 	StrIDTValue[16] = "Nothing";
+
 /* add user code end 0 */
 
 /**
@@ -74,7 +85,7 @@ char 		 	StrIDTValue[16] = "Nothing";
 int main(void)
 {
   /* add user code begin 1 */
-
+	
   /* add user code end 1 */
 
   /* system clock config. */
@@ -96,42 +107,50 @@ int main(void)
   wk_gpio_config();
 
   /* add user code begin 2 */
-	LCD_Init();
-	LCD_Clear();
-	LCD_String(string);
-	LCD_SetPos(0,1);
 	
-	InitKeyboard();
   /* add user code end 2 */
 
   while(1)
   {
     /* add user code begin 3 */
+		switch(DeviceStatus){
+			case 0:
+				LCD_Init();
+				LCD_Clear();
+				LCD_String(Str);
+				LCD_SetPos(0,1);
 
-		ScanKeyboard();
-		LCD_SendChar(GetKey());
-//		gpio_bits_set(GPIOD, GPIO_PINS_9);
-//		Delay(100);
-//		gpio_bits_reset(GPIOD, GPIO_PINS_9);
-//		Delay(100);
-//		LCD_SendChar(GetKey());
-//		Delay(100);
-//		if(GPIOE -> idt & 0xE0)
-//		{
-//			IntIDTValue = GPIOE -> idt & 0x00E0;
-//			sprintf(StrIDTValue, "%x", IntIDTValue);
-//			LCD_String(StrIDTValue);
-//		}
-//		
-//		if((GPIOE -> idt & 0x00E0) == 0x0060)
-//		{
-//			gpio_bits_set(GPIOD, GPIO_PINS_9);
-//			Delay(100);
-//		}
-//		else
-//			gpio_bits_reset(GPIOD, GPIO_PINS_9);
-//		Delay(100);
-		
+				InitKeyboard();
+			
+				DeviceStatus = 1;
+				break;
+			
+			case 1:
+				ScanKeyboard();
+				Symbol = GetKey();
+				if(Symbol == '#'){
+					DeviceStatus = 2;
+				}
+				else{
+					LCD_SendChar(Symbol);
+					sprintf(SymbolStrValue, "%s%c", SymbolStrValue, Symbol);
+					SymbolDecValue = strtof(SymbolStrValue, &endstr);
+				}
+				
+				break;
+				
+			case 2:
+				LCD_Clear();
+				LCD_String(SymbolStrValue);
+				LCD_SetPos(0,1);
+				if(SymbolDecValue > 23)
+				{
+					LCD_String("Yes");
+					sprintf(Str, "%f", SymbolDecValue);
+					LCD_String(Str);
+				}
+				DeviceStatus = 1;
+		}
     /* add user code end 3 */
   }
 }

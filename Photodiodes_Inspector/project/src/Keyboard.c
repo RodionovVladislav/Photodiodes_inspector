@@ -107,7 +107,7 @@ uint8_t GetKey(void)
 {
 	if(KeyNew)
 	{
-		KeyNew =0;
+		KeyNew = 0;
 		return KeyValue;
 	}
 	else

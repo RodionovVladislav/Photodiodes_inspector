@@ -7,5 +7,6 @@
 void InitKeyboard(void);
 void ScanKeyboard(void);
 uint8_t GetKey(void);
+uint16_t FindKey(void);
 
 #endif
