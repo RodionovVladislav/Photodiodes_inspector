@@ -1,5 +1,5 @@
 Dependencies for Project 'Photodiodes_Inspector', Target 'Photodiodes_Inspector': (DO NOT MODIFY !)
-F (..\src\main.c)(0x65A03409)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\src\main.c)(0x65A2A49C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\libraries\drivers\inc -I ..\..\libraries\cmsis\cm4\core_support -I ..\..\libraries\cmsis\cm4\device_support -I ..\inc-I.\RTE\_Photodiodes_Inspector-IC:\Keil\ARM\PACK\ArteryTek\AT32F403A_407_DFP\2.0.8\Device\Include-IC:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DAT32F407VGT7 -DAT32F407VGT7 -DUSE_STDPERIPH_DRIVER -DAT_START_F407_V1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\inc\at32f403a_407_wk_config.h)(0x657ECD09)
 I (..\..\libraries\cmsis\cm4\device_support\at32f403a_407.h)(0x657759E3)
 I (..\..\libraries\cmsis\cm4\core_support\core_cm4.h)(0x657759E3)

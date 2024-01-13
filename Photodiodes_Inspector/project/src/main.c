@@ -59,7 +59,37 @@ char 		 	StrIDTValue[16] = "Next";
 
 /* private macro -------------------------------------------------------------*/
 /* add user code begin private macro */
-
+void WritingValueToFlash(uint32_t value)
+{
+	uint32_t Addres = 0x080FF800;
+	uint32_t Value = value;
+	
+	flash_status_type status = FLASH_OPERATE_DONE;
+	
+	flash_unlock();
+	
+	status = flash_sector_erase(Addres);
+	
+	if(status == FLASH_OPERATE_DONE)
+	{
+		status = flash_word_program(Addres, Value);
+		flash_lock();
+		
+		gpio_bits_set(GPIOD, GPIO_PINS_9);
+		Delay(200);
+		gpio_bits_reset(GPIOD, GPIO_PINS_9);
+		Delay(200);
+		gpio_bits_set(GPIOD, GPIO_PINS_9);
+		Delay(200);
+		gpio_bits_reset(GPIOD, GPIO_PINS_9);
+	}
+	else
+	{
+		flash_lock();
+		while(1){gpio_bits_set(GPIOD, GPIO_PINS_9);}
+		
+	}
+}
 /* add user code end private macro */
 
 /* private variables ---------------------------------------------------------*/
@@ -136,10 +166,10 @@ int main(void)
 					sprintf(SymbolStrValue, "%s%c", SymbolStrValue, Symbol);
 					SymbolDecValue = strtof(SymbolStrValue, &endstr);
 				}
-				
 				break;
 				
 			case 2:
+				WritingValueToFlash(0x12345678);
 				LCD_Clear();
 				LCD_String(SymbolStrValue);
 				LCD_SetPos(0,1);
