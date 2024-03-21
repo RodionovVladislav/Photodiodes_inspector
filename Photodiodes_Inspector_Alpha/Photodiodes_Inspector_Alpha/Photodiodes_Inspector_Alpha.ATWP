@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <MCUInfo>
+        <MCUSerials>AT32F407</MCUSerials>
+        <MCUName>AT32F407VGT7</MCUName>
+        <MCUPackage>LQFP100</MCUPackage>
+    </MCUInfo>
+    <CRM>
+        <Mode>
+            <ModeSub name="HEXT" value="HEXT-External-Oscillator"/>
+        </Mode>
+        <Parameters>
+            <ParametersSub name="HEXT" value="HEXT_CRYSTAL"/>
+        </Parameters>
+    </CRM>
+    <DEBUG>
+        <Mode>
+            <ModeSub name="Debug interface" value="SWD"/>
+        </Mode>
+    </DEBUG>
+    <TMR7>
+        <Mode>
+            <ModeSub name="Activated" value="TRUE"/>
+        </Mode>
+        <Parameters>
+            <ParametersSub name="DividerValue" value="60000"/>
+            <ParametersSub name="Period" value="65000"/>
+            <ParametersSub name="Overflow_Event" value="FALSE"/>
+        </Parameters>
+    </TMR7>
+    <NVIC>
+        <SysTick_Handler>0;0;0</SysTick_Handler>
+        <FLASH_IRQHandler>0;0;0</FLASH_IRQHandler>
+        <CRM_IRQHandler>0;0;0</CRM_IRQHandler>
+        <TMR7_GLOBAL_IRQHandler>0;0;0</TMR7_GLOBAL_IRQHandler>
+    </NVIC>
+    <ClockConfiguration>
+        <rtcsel>0</rtcsel>
+        <hext>8.000000</hext>
+        <hextdiv>2</hextdiv>
+        <pllhextdiv>0</pllhextdiv>
+        <pllrcs>0</pllrcs>
+        <pllmult>30</pllmult>
+        <sclkselect>1</sclkselect>
+        <ahbdiv>1</ahbdiv>
+        <apb1div>8</apb1div>
+        <apb2div>2</apb2div>
+        <usbdiv>4.0</usbdiv>
+        <hicktousb>1</hicktousb>
+        <hicktosclk>0</hicktosclk>
+        <clkout>0</clkout>
+        <clkoutdiv>1</clkoutdiv>
+        <adcdiv>6</adcdiv>
+    </ClockConfiguration>
+    <PINInfo>
+        <PinSub pinname="PE2" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE3" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE4" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE5" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PE6" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC13" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC14" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC15" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="HEXT_IN" signalname="CRM_HEXT_IN" signaltype="2"/>
+        <PinSub pinname="HEXT_OUT" signalname="CRM_HEXT_OUT" signaltype="2"/>
+        <PinSub pinname="PC0" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC1" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC2" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC3" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PA1" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA2" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA3" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA4" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA5" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA6" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA7" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PC4" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC5" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB0" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB1" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB2" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PE7" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PE8" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE9" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE10" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE11" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE12" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE13" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE14" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PE15" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PB10" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB11" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB12" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB13" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB14" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB15" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PD8" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PD9" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PC6" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC7" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC8" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC9" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PA8" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PA13" signalname="DEBUG_JTMS_SWDIO" signaltype="2"/>
+        <PinSub pinname="PA14" signalname="DEBUG_JTCK_SWCLK" signaltype="2"/>
+        <PinSub pinname="PA15" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PC10" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC11" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PC12" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PD0" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PD1" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PD2" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PD3" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PD4" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PD5" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PD6" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PD7" signalname="GPIO_Output" signaltype="3"/>
+        <PinSub pinname="PB3" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB4" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB5" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB6" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB7" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB8" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PB9" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PE0" signalname="GPIO_Input" signaltype="3"/>
+        <PinSub pinname="PE1" signalname="GPIO_Output" signaltype="3"/>
+    </PINInfo>
+    <ProjectInfomation>
+        <ProjectName>Photodiodes_Inspector_Alpha</ProjectName>
+        <ProjectLocation>D:/Microcontrollers/Photodiodes_inspector/PIA</ProjectLocation>
+        <ToolchainIDE>MDK_V5</ToolchainIDE>
+        <KeepUserCode>false</KeepUserCode>
+        <MinHeapSize>0x200</MinHeapSize>
+        <MinStackSize>0x400</MinStackSize>
+        <UseFirmware>true</UseFirmware>
+        <UseFirmwareZip>true</UseFirmwareZip>
+        <FirmwarePath>D:/Microcontrollers/AT32F407VGT7/Rabota/AT32F407_files/Firmware Pelative Path/AT32F403A_407_Firmware_Library_V2.1.6.zip</FirmwarePath>
+        <FirmwareFolderPath></FirmwareFolderPath>
+    </ProjectInfomation>
+</Root>
